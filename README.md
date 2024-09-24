@@ -32,3 +32,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NestorMugambi&" alt="NestorMugambi" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NestorMugambi&show_icons=true&locale=en&layout=compact" alt="NestorMugambi" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NestorMugambi" alt="NestorMugambi" /></a></p>
+ 
+<img src="https://raw.githubusercontent.com/NestorMugambi/NestorMugambi/output/snake.svg" alt="Snake animation" />
+
+###
